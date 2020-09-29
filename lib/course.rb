@@ -3,8 +3,8 @@ class Course
 
   @@all = []
 
-  def self.all
-    @@all
+  def reset_all
+    
   end
 
 end
