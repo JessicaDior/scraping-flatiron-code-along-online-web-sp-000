@@ -13,6 +13,6 @@ end
 
 def self.reset_all
   @@all.clear
-ends
+end
 
 end
